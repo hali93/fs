@@ -1,1 +1,8 @@
-cat.jpg,index.js,node_modules,package-lock.json,package.json,text.txt
+.git
+.gitignore
+index.js
+node_modules
+package-lock.json
+package.json
+README.md
+text.txt
